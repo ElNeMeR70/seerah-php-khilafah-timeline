@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/seerah-php-khilafah-timeline",
+  "description": "Rashidun Caliphate (11-40 AH) Chronological Event & Diwan Indexer (الخط الزمني للخلافة الراشدة والفتوحات الإسلامية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
